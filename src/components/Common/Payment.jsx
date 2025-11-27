@@ -29,7 +29,7 @@ const Payment = () => {
   const [showModal, setShowModal] = useState(true);
   const [transactionId, setTransactionId] = useState("");
   // Ankita UPI details
-  const upiId = "srijeetabiswas310-1@oksbi";
+  const upiId = "bank_upi_id";
   const name = "Srijeeta Biswas";
   const upiLink = `upi://pay?pa=${upiId}&pn=${encodeURIComponent(name)}&am=${cartTotal}&cu=INR`;
 
