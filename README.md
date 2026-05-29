@@ -97,7 +97,7 @@ Payments
 
 ## Demo
 
-https://e-commerce-frontend-psi-self.vercel.app
-https://e-commerce-backend-ten-sage.vercel.app
+* https://e-commerce-frontend-psi-self.vercel.app
+* https://e-commerce-backend-ten-sage.vercel.app
 
 👤 Developer: Srijeeta Biswas
